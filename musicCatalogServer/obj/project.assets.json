@@ -1834,11 +1834,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\itmo\\OOP\\lab1-oop\\musicCatalogServer\\musicCatalogServer.csproj",
+      "projectUniqueName": "D:\\itmo\\OOP\\Music_Catalog-lab-1-OOP\\musicCatalogServer\\musicCatalogServer.csproj",
       "projectName": "musicCatalogServer",
-      "projectPath": "D:\\itmo\\OOP\\lab1-oop\\musicCatalogServer\\musicCatalogServer.csproj",
+      "projectPath": "D:\\itmo\\OOP\\Music_Catalog-lab-1-OOP\\musicCatalogServer\\musicCatalogServer.csproj",
       "packagesPath": "C:\\Users\\Дарья\\.nuget\\packages\\",
-      "outputPath": "D:\\itmo\\OOP\\lab1-oop\\musicCatalogServer\\obj\\",
+      "outputPath": "D:\\itmo\\OOP\\Music_Catalog-lab-1-OOP\\musicCatalogServer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Дарья\\AppData\\Roaming\\NuGet\\NuGet.Config"

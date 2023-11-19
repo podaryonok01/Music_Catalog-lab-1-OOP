@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EJB5FgHwZDfzTcovm+812dvi5DcSypUZXCXkRH4Kv+jjGjcOjEzZCc28F/o9kzGIx/jHBBAvGRrgKnfHsZCejw==",
+  "dgSpecHash": "z1TS5AijNjIw0yE6HllbxiqkSLOv4ac0NSVsq/liUDLFlMhRQOCJsDhhM1z85pyFUJGxJXlQFCrifwK3Ugdhow==",
   "success": true,
-  "projectFilePath": "D:\\itmo\\OOP\\lab1-oop\\musicCatalogServer\\musicCatalogServer.csproj",
+  "projectFilePath": "D:\\itmo\\OOP\\Music_Catalog-lab-1-OOP\\musicCatalogServer\\musicCatalogServer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Дарья\\.nuget\\packages\\bouncycastle.cryptography\\2.2.1\\bouncycastle.cryptography.2.2.1.nupkg.sha512",
     "C:\\Users\\Дарья\\.nuget\\packages\\google.protobuf\\3.21.9\\google.protobuf.3.21.9.nupkg.sha512",
